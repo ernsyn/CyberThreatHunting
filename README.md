@@ -28,6 +28,7 @@ A collection of tools and other resources for threat hunters.
 - [The ThreatHunter-Playbook](https://github.com/VVard0g/ThreatHunter-Playbook) - Hunting by leveraging Sysmon and Windows Events logs
 - [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf)
 - [How to build a Threat Hunting platform using ELK Stack](https://www.peerlyst.com/posts/how-to-build-a-threat-hunting-platform-using-elk-stack-chiheb-chebbi?utm_source=LinkedIn&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post)
+- [Endpoint Detection of Remote Service Creation and PsExec](https://countercept.com/blog/endpoint-detection-of-remote-service-creation-and-psexec/) - Hunting for lateral movement with Event Tracing for Windows (ETW)
 
 ### Must Read
 - [Threat Hunting:Open Season on the Adversary](https://www.sans.org/reading-room/whitepapers/analyst/threat-hunting-open-season-adversary-36882)
